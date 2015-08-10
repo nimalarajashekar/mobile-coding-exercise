@@ -4,7 +4,7 @@ from random_words import RandomWords
 array = []
 words = RandomWords()
 
-for n in range(0, 100000):
+for n in range(0, 1000):
 	data = {}
 	data['title'] = ' '.join(words.random_words(count=random.randint(1,6)))
 	data['description'] = ' '.join(words.random_words(count=random.randint(4,60)))
