@@ -1,6 +1,6 @@
 # Mobile Engineer
 
-## Coding Excercise
+## Coding Exercise
 
 In Android Studio or Xcode, create an application that downloads a JSON file and displays the list of items. Each item should show the title and the first line from the description.
 
