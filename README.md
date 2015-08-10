@@ -2,9 +2,9 @@
 
 ## Coding Exercise
 
-In Android Studio or Xcode, create an application that downloads a JSON file and displays the list of items. Each item should show the title and the first line from the description.
+In Android Studio or Xcode, create an application that downloads a JSON file and displays the list of items. Each item should show the title and the description. Ellipsize the description.
 
-If you want to make it more interesting add the functionality so that when clicking on an item the user is taken to a secondary screen that displays the title, the description (all lines), and the image.
+If you want to make it more interesting add the functionality so that when clicking on an item the user is taken to a secondary screen that displays the title, the full description, and the image.
 
 We expect good candidates to use git and send us the repository so that we can browse the git history.
 
